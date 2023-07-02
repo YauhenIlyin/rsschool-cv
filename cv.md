@@ -12,6 +12,7 @@
 
 ### Contact information
 rss discord: Yauhen Ilyin (@yauhenilyin)
+
 email: learning.eugene.ilyin@gmail.com
 
 ---
@@ -25,13 +26,17 @@ I am Java developer. I'm learning the frontend to expand my stack. I am constant
 Scrum, Kanban, Agile
 
 Monolith, Microservices
+
 MVC, RESTful
 
 Java SE/EE, Spring, SpringBoot2, Hibernate
+
 JS basic, html basic, CSS basic
 
 Sql, NoSQl
+
 MySQL, MicrosoftSQLServer, PostgreSQL, MongoDB
+
 Liquibase
 
 Maven, Gradle
