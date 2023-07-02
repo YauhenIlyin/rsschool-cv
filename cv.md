@@ -1,22 +1,22 @@
-#rsschool-cv
+# rsschool-cv
 ===
-##Yauhen Ilyin
+## Yauhen Ilyin
 ===
-##Frontend developer
+## Frontend developer
 ===
 
-###Contact information:
+### Contact information:
 rss discord: Yauhen Ilyin (@yauhenilyin)
 email: learning.eugene.ilyin@gmail.com
 
 ===
 
-###About me
+### About me
 I am Java developer. I'm learning the frontend to expand my stack. I am constantly learning new things and developing. I attend technology meetups. I teach Java. I welcome any suggestions and opportunities.
 
 ===
 
-###Skills
+### Skills
 Scrum, Kanban, Agile
 
 Monolith, Microservices
@@ -33,7 +33,7 @@ Maven, Gradle
 
 ===
 
-###Code example
+### Code example
 Find the sum of all multiples of n below m
 n and m are natural numbers (positive integers)
 m is excluded from the multiples
@@ -54,12 +54,12 @@ public class Kata {
 
 ===
 
-###Experience
+### Experience
 https://github.com/YauhenIlyin/rsschool-cv
 
 ===
 
-###Education
+### Education
 
 Belarusian state university - Faculty of Mechanics and Mathematics
 Java: It-step, EPAM inner course, skillbox, IT-academy, Javarush, Udemy
