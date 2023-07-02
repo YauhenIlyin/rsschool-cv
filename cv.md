@@ -55,7 +55,7 @@ public class Kata {
 ===
 
 ###Experience
-Coming soon...
+https://github.com/YauhenIlyin/rsschool-cv
 
 ===
 
