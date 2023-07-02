@@ -10,7 +10,7 @@
 
 ---
 
-### Contact information:
+### Contact information
 rss discord: Yauhen Ilyin (@yauhenilyin)
 email: learning.eugene.ilyin@gmail.com
 
