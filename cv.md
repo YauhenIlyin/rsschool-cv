@@ -59,4 +59,10 @@ Coming soon...
 
 ===
 
+###Education
 
+Belarusian state university - Faculty of Mechanics and Mathematics
+Java: It-step, EPAM inner course, skillbox, IT-academy, Javarush, Udemy
+JS: RSS in progress
+
+===
